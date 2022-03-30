@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\AP203\11. 30-03-2022\30032022\ReflectionLesson\bin\Debug\netcoreapp3.1\ReflectionLesson.exe
+C:\Users\Eagha\Desktop\CodeLessons\AP203\11. 30-03-2022\30032022\ReflectionLesson\bin\Debug\netcoreapp3.1\ReflectionLesson.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\AP203\11. 30-03-2022\30032022\ReflectionLesson\bin\Debug\netcoreapp3.1\ReflectionLesson.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\AP203\11. 30-03-2022\30032022\ReflectionLesson\bin\Debug\netcoreapp3.1\ReflectionLesson.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\AP203\11. 30-03-2022\30032022\ReflectionLesson\bin\Debug\netcoreapp3.1\ReflectionLesson.dll
+C:\Users\Eagha\Desktop\CodeLessons\AP203\11. 30-03-2022\30032022\ReflectionLesson\bin\Debug\netcoreapp3.1\ReflectionLesson.pdb
+C:\Users\Eagha\Desktop\CodeLessons\AP203\11. 30-03-2022\30032022\ReflectionLesson\obj\Debug\netcoreapp3.1\ReflectionLesson.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\AP203\11. 30-03-2022\30032022\ReflectionLesson\obj\Debug\netcoreapp3.1\ReflectionLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\AP203\11. 30-03-2022\30032022\ReflectionLesson\obj\Debug\netcoreapp3.1\ReflectionLesson.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\AP203\11. 30-03-2022\30032022\ReflectionLesson\obj\Debug\netcoreapp3.1\ReflectionLesson.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\AP203\11. 30-03-2022\30032022\ReflectionLesson\obj\Debug\netcoreapp3.1\ReflectionLesson.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\AP203\11. 30-03-2022\30032022\ReflectionLesson\obj\Debug\netcoreapp3.1\ReflectionLesson.dll
+C:\Users\Eagha\Desktop\CodeLessons\AP203\11. 30-03-2022\30032022\ReflectionLesson\obj\Debug\netcoreapp3.1\ReflectionLesson.pdb
+C:\Users\Eagha\Desktop\CodeLessons\AP203\11. 30-03-2022\30032022\ReflectionLesson\obj\Debug\netcoreapp3.1\ReflectionLesson.genruntimeconfig.cache
